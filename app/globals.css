@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  --background: #060b19;
+  --foreground: #f8fafc;
+  --navy-deep: #060b19;
+  --navy-card: #0c1630;
+  --gold-primary: #d4af37;
+  --gold-light: #f5d061;
+  --gold-dark: #b8860b;
+}
+
+body {
+  background-color: #060b19;
+  color: #f8fafc;
+  font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  overflow-x: hidden;
+}
+
